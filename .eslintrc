@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "mocha": true,
+    "node": true
+  },
+  "rules": {
+    "class-methods-use-this": 1,
+    "no-param-reassign": 1,
+    "no-underscore-dangle": 1
+  }
+}
